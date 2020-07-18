@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  DemoDLL.cpp
+\\vmware-host\shared folders\桌面\windowsformsapplication4\demodll\demodll.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+\\vmware-host\shared folders\桌面\windowsformsapplication4\demodll\demodll.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+\\vmware-host\shared folders\桌面\windowsformsapplication4\demodll\demodll.cpp(69): warning C4244: “=”: 从“std::size_t”转换到“float”，可能丢失数据
+\\vmware-host\shared folders\桌面\windowsformsapplication4\demodll\demodll.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+\\vmware-host\shared folders\桌面\windowsformsapplication4\demodll\demodll.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+    
+  DemoDLL.vcxproj -> \\vmware-host\Shared Folders\桌面\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DemoDLL.dll
+  DemoDLL.vcxproj -> \\vmware-host\Shared Folders\桌面\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DemoDLL.pdb (Full PDB)

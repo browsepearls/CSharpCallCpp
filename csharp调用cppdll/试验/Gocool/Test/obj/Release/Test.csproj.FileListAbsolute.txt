@@ -1,0 +1,6 @@
+F:\c_sharp_call_cpp_dll\创建一个C++ dll文件\创建一个dll的完整代码示例\Gocool\Test\bin\Release\Test.exe.config
+F:\c_sharp_call_cpp_dll\创建一个C++ dll文件\创建一个dll的完整代码示例\Gocool\Test\bin\Release\Test.exe
+F:\c_sharp_call_cpp_dll\创建一个C++ dll文件\创建一个dll的完整代码示例\Gocool\Test\bin\Release\Test.pdb
+F:\c_sharp_call_cpp_dll\创建一个C++ dll文件\创建一个dll的完整代码示例\Gocool\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+F:\c_sharp_call_cpp_dll\创建一个C++ dll文件\创建一个dll的完整代码示例\Gocool\Test\obj\Release\Test.exe
+F:\c_sharp_call_cpp_dll\创建一个C++ dll文件\创建一个dll的完整代码示例\Gocool\Test\obj\Release\Test.pdb

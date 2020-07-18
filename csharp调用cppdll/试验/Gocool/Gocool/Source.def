@@ -1,0 +1,7 @@
+LIBRARY
+EXPORTS
+
+const_char_star
+char_star_for_a_var
+char_arr
+double_star_star
